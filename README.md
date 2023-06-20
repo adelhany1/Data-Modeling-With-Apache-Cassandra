@@ -10,4 +10,4 @@ For this project, We'll be working with one dataset: event_data. The directory o
 
 Tables ERD:
 
-![](tables ERD.png)
+![](tables_ERD.png)
