@@ -8,4 +8,6 @@ For this project, We'll be working with one dataset: event_data. The directory o
 
 ![](image_event_datafile_new.jpg)
 
+Tables ERD:
+
 ![](tables ERD.png)
