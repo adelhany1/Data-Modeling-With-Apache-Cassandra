@@ -6,3 +6,6 @@ They'd like a data engineer to create an Apache Cassandra database which can cre
 
 For this project, We'll be working with one dataset: event_data. The directory of CSV files partitioned by date.
 
+![](image_event_datafile_new.jpg)
+
+![](tables ERD.png)
